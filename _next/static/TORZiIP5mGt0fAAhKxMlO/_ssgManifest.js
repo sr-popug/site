@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fapp-subscription-4-7d-trial-per-day","\u002Fapp-subscription-4-7d-trial-per-day\u002F[id]","\u002Fapp-subscription-intro","\u002Fapp-subscription-intro\u002F[id]","\u002Fnatal-chart","\u002Fnatal-chart\u002F[id]","\u002Fpalmistry","\u002Fpalmistry\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
